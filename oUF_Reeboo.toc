@@ -1,0 +1,10 @@
+## Interface: 30000
+## Title: oUF_Reeboo
+## Author: neolith
+## Version: BETA
+## Notes: oUF layout for warlocks aimed at 1920x1200
+## Dependencies: oUF
+## OptionalDeps: oUF_DebuffHighlight, oUF_HealComm, oUF_Banzai
+
+oUF_Reeboo.lua
+oUF_Reeboo.xml
